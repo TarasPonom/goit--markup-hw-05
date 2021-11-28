@@ -189,6 +189,7 @@ img {
 
   border: none;
   border-radius: 4px;
+  transition: var(--animation-duration) var(--timing-function);
 }
 
 .filter-button:hover,
