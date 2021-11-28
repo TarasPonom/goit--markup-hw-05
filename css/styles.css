@@ -683,6 +683,7 @@ img {
   top: 0;
   left: 0;
   transition: var(--animation-duration) var(--timing-function);
+  z-index: 1;
 }
 
 .modal {
